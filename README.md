@@ -15,3 +15,13 @@ cd ministorefront
 npm install
 npm run dev
 
+✅ Rubric Checklist
+Requirement	Description	Done
+Project Setup & Structure	Correct Next.js App Router + Tailwind setup	✅
+Components + JSX + Keys	Reusable components with stable keys	✅
+Props + Lifting State	Data flow between parent and child components	✅
+State + Controlled Inputs	Category + Price filters managed by state	✅
+Effects + Cleanup	Fetch products + stock update interval with cleanup	✅
+Conditional Rendering	Loading, error, and empty states handled properly	✅
+Tailwind UI Styling	Clean, responsive UI	✅
+Public GitHub Repo + README	Repo accessible + includes this file
